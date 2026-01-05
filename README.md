@@ -258,10 +258,6 @@ MIT License - See LICENSE file for details
 
 **Aishwarya C**
 
-- Portfolio: [Your Portfolio]
-- LinkedIn: [Your LinkedIn]
-- GitHub: [Your GitHub]
-
 ## 🙏 Acknowledgments
 
 - Dataset: Paul Mooney via Kaggle
