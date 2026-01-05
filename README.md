@@ -275,9 +275,4 @@ MIT License - See LICENSE file for details
 ## 📞 Contact
 
 For questions or collaboration opportunities:
-- Email: your.email@example.com
-- LinkedIn: [Your LinkedIn]
-
----
-
-*Built with ❤️ for healthcare AI and machine learning*
+- Email: aishbchaudhari@gmail.com
