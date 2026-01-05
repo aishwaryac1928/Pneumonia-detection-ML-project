@@ -270,8 +270,6 @@ MIT License - See LICENSE file for details
 
 ---
 
-**⭐ If you find this project useful, please consider giving it a star!**
-
 ## 📞 Contact
 
 For questions or collaboration opportunities:
