@@ -1,0 +1,21 @@
+# Core ML Libraries
+tensorflow>=2.13.0
+keras>=2.13.0
+numpy>=1.24.0
+pandas>=2.0.0
+scikit-learn>=1.3.0
+
+# Image Processing
+opencv-python>=4.8.0
+Pillow>=10.0.0
+matplotlib>=3.7.0
+seaborn>=0.12.0
+
+# Grad-CAM and Visualization
+tf-keras-vis>=0.8.5
+
+# Demo and Deployment
+gradio>=3.50.0
+
+# Utilities
+tqdm>=4.66.0
